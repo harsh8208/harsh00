@@ -13,5 +13,5 @@ int main() {
   avg=(num1+num2+num3)/3;
   printf("Avg of %f and %f and %f is %f", num1,num2,num3,avg);
 
-  return 1;
+  return 0;
 }
